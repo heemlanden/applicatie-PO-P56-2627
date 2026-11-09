@@ -1,0 +1,1 @@
+In deze map maak je het ontwerp voor je applicatie. Je mag dit in één bestand doen. (Je kan hier het template voor gebruiken.) Je mag ook per onderdeel een appart markdownbestand maken, maar zorg dan wel dat je links gebruikt om van het ene bestand naar het andere te komen.
