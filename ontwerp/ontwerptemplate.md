@@ -18,9 +18,8 @@ Status: draft
 - Omschrijf de eindgebruikers of doelgroep voor wie de applicatie bedoeld is.
 
 ## 2. Functies en ontwerpeisen
-
-- Geef een gedetailleerde beschrijving van de applicatie die je wilt maken.
-- Omschrijf de belangrijkste functies en hoe deze bijdragen aan het doel van de applicatie.
+.
+- Omschrijf de belangrijkste functies van je applicatie en hoe deze bijdragen aan het doel van de applicatie.
 - Formuleer realistische, specifieke en meetbare eisen/wensen waar je applicatie aan moet of kan voldoen.
 - Deel deze eisen in op prioriteit volgens de MoSCoW-methode. Beargumenteer kort waarom wat in welke categorie zit.
 - Betrek de (veronderstelde) wensen van de doelgroep van je applicatie bij het opstellen en prioriteit geven van eisen/wensen.
