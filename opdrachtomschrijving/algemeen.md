@@ -8,6 +8,8 @@
 > | **Deadline**  | 8 januari 21:00       | 12 maart 21:00                                                                      |
 > | **Product**   | Een ontwerpplan (PDF). | Je applicatie en alle bestanden die benodigd zijn om die te laten werken (als ZIP). |
 > | **Inlevermethode** | Via Magister | Via Magister (tenzij anders afgesproken) |
+>
+> **Groepsgrootte:** 1 of 2. In goed overleg 3. 
 
 Bij dit vak zijn veel verschillende onderwerpen aan bod gekomen, sommige als leerstof voor een toets en andere bij POs. Misschien had je je in een van die onderwerpen wel meer willen verdiepen, maar kon dat niet, omdat er maar beperkte tijd voor was. Deze eindopdracht is je kans om je alsnog verder in dit onderwerp te verdiepen door een applicatie te ontwerpen en maken die hierbij past. Je bent vrij om hierbij zelf een informatica-gerelateerd onderzoek te doen, zo lang het maar gaat om het maken of ontwerpen van een applicatie.
 
