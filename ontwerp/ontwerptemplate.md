@@ -15,13 +15,13 @@ Status: draft
 - Omschrijf in grote lijnen wat je applicatie inhoudt.
 - Beschrijf het doel van je eindwerkstuk/applicatie en waarom je voor deze applicatie hebt gekozen.
 - Omschrijf binnen welk(e) [verdiepingsrichting(en)](../opdrachtomschrijving/onderwerpen.md) je applicatie valt en hoe je je met je applicatie verder in deze onderwerpen zal verdiepen.
-- Omschrijf de eindgebruikers of doelgroep voor wie de applicatie bedoeld is.
+- Omschrijf de eindgebruikers of doelgroep voor wie de applicatie bedoeld is. De applicatie kan ook meerdere doelgroepen hebben die net wat anders van je applicatie verwachten.
 
 ## 2. Functies en ontwerpeisen
 - Omschrijf de belangrijkste functies van je applicatie en hoe deze bijdragen aan het doel van de applicatie.
 - Formuleer realistische, specifieke en meetbare eisen/wensen waar je applicatie aan moet of kan voldoen.
 - Deel deze eisen in op prioriteit volgens de MoSCoW-methode. Beargumenteer kort waarom wat in welke categorie zit.
-- Betrek de (veronderstelde) wensen van de doelgroep van je applicatie bij het opstellen en prioriteit geven van eisen/wensen.
+- Betrek de (veronderstelde) wensen van de doelgroep(en) van je applicatie bij het opstellen en prioriteit geven van eisen/wensen.
     - Een goede manier om dit te doen is met behulp van User Stories, die je als basis voor je eisen gebruikt.
     - Om te voorkomen dat de slager zijn eigen vlees keurt, raad ik je aan om klasgenoten uit andere groepjes te vragen om input bij het opstellen van user stories en daar ook verslag van te doen.
 
