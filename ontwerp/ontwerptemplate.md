@@ -22,6 +22,8 @@ Status: draft
 - Formuleer realistische, specifieke en meetbare eisen/wensen waar je applicatie aan moet of kan voldoen.
 - Deel deze eisen in op prioriteit volgens de MoSCoW-methode. Beargumenteer kort waarom wat in welke categorie zit.
 - Betrek de (veronderstelde) wensen van de doelgroep van je applicatie bij het opstellen en prioriteit geven van eisen/wensen.
+    - Een goede manier om dit te doen is met behulp van User Stories, die je als basis voor je eisen gebruikt.
+    - Om te voorkomen dat de slager zijn eigen vlees keurt, raad ik je aan om klasgenoten uit andere groepjes te vragen om input bij het opstellen van user stories en daar ook verslag van te doen.
 
 ## 3. Vooronderzoek
 
